@@ -1,6 +1,6 @@
 package ca.sheridancollege.project;
 
-public class subclass2 extends Card {
+public class CardsPlay extends Card {
 
     @Override
     public String toString() {
