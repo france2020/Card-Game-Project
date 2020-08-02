@@ -1,8 +1,8 @@
 package ca.sheridancollege.project;
 
-public class gamePlay extends Game {
+public class ConcentrationGame extends Game {
 
-    public gamePlay(String givenName) {
+    public ConcentrationGame(String givenName) {
         super(givenName);
     }
 
